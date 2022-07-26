@@ -1,17 +1,17 @@
 # gcp_bootcamp_git_basics
 GCP Bootcamp Git Basics
 
-#GIT
+# GIT
 
 
-##What is version control (VCS)?
+## What is version control (VCS)?
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. So ideally, we can place any file in the computer on version control.
 
 
-##Why use it?
+## Why use it?
 A Version Control System (VCS) allows you to revert files back to a previous state, revert the entire project back to a previous state, review changes made over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also means that if you screw things up or lose files, you can generally recover easily. 
 
-##What is a repository?
+## What is a repository?
 A repository a.k.a. repo is nothing but a collection of source code.
 
 
